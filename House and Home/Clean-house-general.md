@@ -202,11 +202,10 @@
         - [Floors]
       - Glass and Mirrors:
         - [Glass and Mirrors]
-
-
-
 - Kitchen:
-  - Clean out all cabinets and liners.
+  - Supplies:
+    - General purpose cleaner
+    Cabinets and liners
   - Wash the front of the cabinets.
   - Clean and disinfect all countertops.
   - Clean and shine up the sink and faucet.
@@ -221,6 +220,9 @@
 Bedrooms/Living Room:
   - Floors: 
     - Dust, sweep, vacuum and mop.
+
+
+
 
 
 
