@@ -1,0 +1,35 @@
+House and Home Reminders:
+- Clean House
+  - Whole house
+  - Floors
+  - Oven
+  - Carpets
+  - Bathrooms
+  - Kitchen
+  - Bedrooms
+  - Closets
+  - Laundry
+  - Pantry
+  - Refrigerator
+  - Cooktop/Rnage
+  - Microwave
+  - Trashcan
+  - Cabinets
+  - Bakeware
+  - Dishes
+  - Dishwasher
+  - 
+
+- Annual Tasks
+  - Replace smoke detector batteries
+  - Vaccum out smoke detectors
+
+-Seasonal Tasks
+  - Winter
+    - Replace weatherstripping
+      - Doors
+      - Attic Access
+    - Turn off Sprinklers
+    - Close up pool
+    - Cover AC unit with protective board
+    - Wrap any trees that need sweaters, extra mulch
