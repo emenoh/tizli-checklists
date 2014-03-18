@@ -1,13 +1,32 @@
 - Lawncare checklist
+  - Growing season
+    - Weekly
+      - Pick up debris
+      - Rake leaves
+      - Remove weeds in lawn
+      - Mow lawn
+      - Edge lawn
+      - Trim around trees
+      - Trim around house
+      - Sweep any grass cuttings off sidewalks
+      - Spot treat any remaining weeds
+  
   - Spring
-    - one
-    - two
-    - three
+    - Lime your soil if it is acidic
+    - Remove and replace mulch
+    - Plant herbs
+    - Final pruning
+    - Plant annuals
+    - Set lawn mower height 2-3 in.
   - Summer
-    - one
-    - two
-    - three
+    - Add mulch around trees and shrubs to prevent water loss
+    - Raise cutting height of lawn mower 1 - 1.5 in.
+    - Put out soaker hoses around trees and shrubs
+    - Put out soaker hoses 18 in. from house
   - Fall
-    - one
+    - Fertilize lawn to promote fall and winter root growth
   - Winter
-    - one
+    - Mow dormant lawn
+    - Prune trees and shrubs
+    - Cut branches for indoor blooming when buds are visible
+    - Pull weeds and apply post-emergent herbicide

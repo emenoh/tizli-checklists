@@ -1,0 +1,55 @@
+- Lawn and Garden Care Supplies
+	- Treatments
+    - Weed preventer
+    - Weed killer
+    - Grass killer
+    - Insect preventer
+    - Insecticide
+    - Brick cleaner
+    - Concrete cleaner
+    - Stump killer
+    - Tree pruning sealer
+    - Fertilizer
+    - Grass seed
+  - Disposables
+    - Trash bags
+    - Paper lawn clipping bags
+  - Tools
+    - Wheelbarrow
+    - Lawn mower
+    - String trimmer
+    - Edger
+    - Handheld sprayer
+    - Hedge trimmer
+    - Tree pruner
+    - Pruning saw
+    - Spreader, rotary
+    - Spreader, hand
+    - Spreader, drop
+    - Large push broom
+    - Leaf blower
+    - Hand pruning shears
+    - Rake
+    - Thatching rake
+    - Work gloves
+    - Bulb planter
+    - Shovel
+    - Spade
+    - Garden Rake
+    - Grape hoe
+    - Landscape rake
+    - Grass shears
+    - Utility cart
+    - Trowel
+    - Weeder
+    - Water hoses
+    - Water sprayer gun
+  - Tools to rent
+    - Compact utility loader
+    - Earth mover
+    - Lawn roller
+    - Power aerator
+    - Slit seeder
+    - Power tiller
+    - Power sod cutter
+    - Power de-thatcher

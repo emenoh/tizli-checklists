@@ -65,6 +65,8 @@
       - Feather duster
     - Vaccum
     - Handheld vaccum
+    - Hand steamer
+    - Steam carpet cleaner
     - Rental carpet cleaner
     - Glass squigee
     - Bucket
